@@ -19,7 +19,7 @@ This project is a Doctor Assistant chatbot that can answer medical questions. It
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/DoctorGPT.git
+    git clone https://github.com/myz21/DoctorGPT.git
     cd DoctorGPT
     ```
 
